@@ -13,11 +13,32 @@
   - GitHub: [singhmanish03](https://github.com/singhmanish03)  
   - LinkedIn: [Manish Singh](https://www.linkedin.com/in/manishsingh003/)
   
- ## 🛠️ Technical Skills
--Languages: JavaScript, Python, SQL, C++, HTML/CSS.
--Frameworks & Tools: React, Node.js, Redux, Docker, Kubernetes, Cypress, Tailwind CSS.
--Cloud: Oracle Cloud Infrastructure (OCI).
--Other Skills: Agile best practices, API Automation, Testing frameworks.
+## 🛠️ Technical Skills
+
+- **Languages:**  
+  - JavaScript  
+  - Python  
+  - SQL  
+  - C++  
+  - HTML/CSS  
+
+- **Frameworks & Tools:**  
+  - React  
+  - Node.js  
+  - Redux  
+  - Docker  
+  - Kubernetes  
+  - Cypress  
+  - Tailwind CSS  
+
+- **Cloud:**  
+  - Oracle Cloud Infrastructure (OCI)  
+
+- **Other Skills:**  
+  - Agile Best Practices  
+  - API Automation  
+  - Testing Frameworks  
+
 
 
 ## 🎯 Achievements
