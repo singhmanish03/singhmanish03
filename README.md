@@ -15,35 +15,15 @@
   
 ## 🛠️ Technical Skills
 
-- **Languages:**  
-  - JavaScript  
-  - Python  
-  - SQL  
-  - C++  
-  - HTML/CSS  
-
-- **Frameworks & Tools:**  
-  - React  
-  - Node.js  
-  - Redux  
-  - Docker  
-  - Kubernetes  
-  - Cypress  
-  - Tailwind CSS  
-
-- **Cloud:**  
-  - Oracle Cloud Infrastructure (OCI)  
-
-- **Other Skills:**  
-  - Agile Best Practices  
-  - API Automation  
-  - Testing Frameworks  
-
+- **Languages:** JavaScript, Python, SQL, C++, HTML/CSS  
+- **Frameworks & Tools:** React, Node.js, Redux, Docker, Kubernetes, Cypress, Tailwind CSS  
+- **Cloud:** Oracle Cloud Infrastructure (OCI)  
+- **Other Skills:** Agile Best Practices, API Automation, Testing Frameworks  
 
 
 ## 🎯 Achievements
--YES Award (FY23-24, FY24-25): Recognized for seamless project execution and exceptional user experience.
--Increased customer satisfaction with positive feedback from all clients.
--Certified as a Full Stack Developer and Cypress Automation Testing expert.
+- **YES Award (FY23-24, FY24-25):** Recognized for seamless project execution and exceptional user experience.
+- **Increased customer satisfaction with positive feedback from all clients.**
+- **Certified as a Full Stack Developer and Cypress Automation Testing expert.**
 
 ⚡ **Fun fact:** I recently reduced file creation time by 90% in a Node.js project by leveraging non-blocking asynchronous architecture! 🚀  
